@@ -2,8 +2,8 @@
 using namespace std;
 
 int main () {
-    cout << "Hello, World!\n";
-    cout << "Hey, I am an AI!\n";
-    
-    return 0;
+  cout << "Hello, World!\n";
+  cout << "Hey, I'm an AI.\n";
+
+  return 0;
 }
